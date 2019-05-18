@@ -1,3 +1,4 @@
+using System;
 using System.Linq;
 using System.Threading.Tasks;
 using Common;
@@ -39,6 +40,8 @@ namespace Tests
         [Test]
         public void CreateDeed()
         {
+            var rand = new Random();
+
             var userFirst = AsyncExecutionHelper.RunSync(async ()=>await _userStorage.GetAsync(null));
             AsyncExecutionHelper.RunSync(async () => await _deedStorage.CreateAsync(new Deed
             {
@@ -47,10 +50,11 @@ namespace Tests
                 DescriptionPrivate = "Private description",
                 UserId = userFirst.UserId,
                 //User = userFirst
+                Latitude = rand.Next(10, 100),
+                Longitude = rand.Next(10, 100),
             }));
 
             Assert.AreEqual(true, true);
         }
-        
     }
 }

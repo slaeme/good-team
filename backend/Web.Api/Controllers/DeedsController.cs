@@ -25,6 +25,7 @@ namespace Web.Api.Controllers
         [HttpGet]
         public IEnumerable<Deed> GetDeeds()
         {
+            var t = _context.Deeds; ;
             return _context.Deeds;
         }
 

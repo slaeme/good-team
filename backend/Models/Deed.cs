@@ -24,6 +24,8 @@ namespace GT.Models
         public int MaxCountUsers { get; set; }
         public int CurrentCountUsers { get; set; }
 
+        public double Longitude { get; set; }
+        public double Latitude { get; set; }
         public Byte[] GeoBytes { get; set; }
 
         //[Required]
