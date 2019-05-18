@@ -1,1 +1,1 @@
-export { default } from "src/components/DeedList";
+export { default } from "./Main";

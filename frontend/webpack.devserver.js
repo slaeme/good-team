@@ -5,7 +5,10 @@ module.exports = () => {
       https: true,
       open: true,
       hot: true,
-      historyApiFallback: true
+      historyApiFallback: true,
+      proxy: {
+        "/api": "http://10.34.0.48:49778"
+      }
     }
   };
 };

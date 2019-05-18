@@ -1,19 +1,19 @@
 import React from "react";
 
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { Route, Switch } from "react-router-dom";
 
 import MainPage from "src/pages/main";
+import MapPage from "src/pages/map";
 import DeedPage from "src/pages/deed";
 import NotFoundPage from "src/pages/not-found";
 
 const Main: React.FC = () => (
-  <Router>
-    <Switch>
-      <Route path="/" exact component={MainPage} />
-      <Route path="/deed/:id" exact component={DeedPage} />
-      <Route component={NotFoundPage} />
-    </Switch>
-  </Router>
+  <Switch>
+    <Route path="/" exact component={MainPage} />
+    <Route path="/map" exact component={MapPage} />
+    <Route path="/deed/:id" exact component={DeedPage} />
+    <Route component={NotFoundPage} />
+  </Switch>
 );
 
 export default Main;

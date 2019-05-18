@@ -1,4 +1,5 @@
 @import "/src/variables.less";
+@import "~normalize.css";
 
 html {
   font-family: "Segoe UI", "Georgia", "Times New Roman", serif;
@@ -10,7 +11,8 @@ html {
 }
 
 .layout {
-  max-width: 600px;
+  max-width: @max-page-width;
+  width: 100vw;
 }
 
 .header {
@@ -25,10 +27,14 @@ html {
   height: @logo-size;
   background-image: url("/src/favicon.png");
   background-size: contain;
+  flex: none;
 }
 
 .name {
-  font-size: 40px;
+  display: flex;
+  align-items: baseline;
+  flex-grow: 1;
+  font-size: @font-size-large;
   margin-left: 2 * @step;
   font-weight: lighter;
 }
@@ -37,4 +43,11 @@ html {
 
 .footer {
   padding: 3 * @step;
+}
+
+.map-link {
+  font-size: @font-size-base;
+  margin-left: auto;
+  padding-left: 3 * @step;
+  flex: none;
 }
