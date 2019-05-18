@@ -1,0 +1,8 @@
+D:\Projects\Urbaton\good-team\backend\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+D:\Projects\Urbaton\good-team\backend\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+D:\Projects\Urbaton\good-team\backend\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+D:\Projects\Urbaton\good-team\backend\Common\bin\Debug\netcoreapp2.1\GT.Common.deps.json
+D:\Projects\Urbaton\good-team\backend\Common\bin\Debug\netcoreapp2.1\GT.Common.dll
+D:\Projects\Urbaton\good-team\backend\Common\bin\Debug\netcoreapp2.1\GT.Common.pdb
+D:\Projects\Urbaton\good-team\backend\Common\obj\Debug\netcoreapp2.1\GT.Common.dll
+D:\Projects\Urbaton\good-team\backend\Common\obj\Debug\netcoreapp2.1\GT.Common.pdb

@@ -1,0 +1,12 @@
+D:\Projects\Urbaton\good-team\backend\Interfaces\bin\Debug\netcoreapp2.1\GT.Interfaces.deps.json
+D:\Projects\Urbaton\good-team\backend\Interfaces\bin\Debug\netcoreapp2.1\GT.Interfaces.dll
+D:\Projects\Urbaton\good-team\backend\Interfaces\bin\Debug\netcoreapp2.1\GT.Interfaces.pdb
+D:\Projects\Urbaton\good-team\backend\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.csprojAssemblyReference.cache
+D:\Projects\Urbaton\good-team\backend\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.csproj.CoreCompileInputs.cache
+D:\Projects\Urbaton\good-team\backend\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.AssemblyInfoInputs.cache
+D:\Projects\Urbaton\good-team\backend\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.AssemblyInfo.cs
+D:\Projects\Urbaton\good-team\backend\Interfaces\obj\Debug\netcoreapp2.1\GT.Interfaces.dll
+D:\Projects\Urbaton\good-team\backend\Interfaces\obj\Debug\netcoreapp2.1\GT.Interfaces.pdb
+D:\Projects\Urbaton\good-team\backend\Interfaces\bin\Debug\netcoreapp2.1\GT.Models.dll
+D:\Projects\Urbaton\good-team\backend\Interfaces\bin\Debug\netcoreapp2.1\GT.Models.pdb
+D:\Projects\Urbaton\good-team\backend\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.csproj.CopyComplete
