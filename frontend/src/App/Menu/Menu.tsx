@@ -17,6 +17,12 @@ const Menu: React.FC<RouteComponentProps> = props => (
         Карта
       </Link>
     </AntdMenu.Item>
+    <AntdMenu.Item key="/my">
+      <Link to={"/my"}>
+        <Icon type="profile" />
+        Мои
+      </Link>
+    </AntdMenu.Item>
   </AntdMenu>
 );
 
