@@ -2,9 +2,10 @@ import React from "react";
 import "./Layout.less";
 
 import Main from "../Main";
-import ToggleToMap from "../ToggleToMap";
+import Menu from "../Menu";
 
 import { BrowserRouter as Router } from "react-router-dom";
+import { Avatar } from "antd";
 
 const Layout: React.FC = () => (
   <Router>
@@ -14,11 +15,14 @@ const Layout: React.FC = () => (
           <div styleName="logo" />{" "}
           <span styleName="name">
             <span>Добрые дела</span>{" "}
-            <span styleName="map-link">
-              <ToggleToMap />
+            <span styleName="account">
+              <Avatar shape="square" icon="user" />
             </span>
           </span>
         </header>
+        <nav>
+          <Menu />
+        </nav>
         <main styleName="main">
           <Main />
         </main>
