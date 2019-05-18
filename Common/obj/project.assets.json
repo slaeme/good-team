@@ -695,7 +695,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "D:\\Projects\\Urbaton\\good-team\\Common\\Common.csproj",
-      "projectName": "Common",
+      "projectName": "GT.Common",
       "projectPath": "D:\\Projects\\Urbaton\\good-team\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\durnev\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\Urbaton\\good-team\\Common\\obj\\",
