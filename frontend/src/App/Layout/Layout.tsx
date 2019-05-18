@@ -1,6 +1,6 @@
 import React from "react";
 import "./Layout.less";
-import DeedList from "src/components/DeedList";
+import Main from "../Main";
 
 const Layout: React.FC = () => (
   <div styleName="wrapper">
@@ -9,7 +9,7 @@ const Layout: React.FC = () => (
         <div styleName="logo" /> <span styleName="name">Добрые дела</span>
       </header>
       <main styleName="main">
-        <DeedList />
+        <Main />
       </main>
       <footer styleName="footer">by Good Team for Urbatron 2019</footer>
     </div>
