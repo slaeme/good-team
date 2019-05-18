@@ -1,8 +1,12 @@
+const webpack = require("webpack");
+
 const CleanWebpackPlugin = require("clean-webpack-plugin");
 const ManifestPlugin = require("webpack-manifest-plugin");
-const webpack = require("webpack");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
+const FaviconsWebpackPlugin = require("favicons-webpack-plugin");
+
+const context = require("./webpack.context").context;
 
 const path = require("path");
 
@@ -46,6 +50,8 @@ module.exports = (env, argv) => {
       xhtml: true
     })
   );
+
+  plugins.push(new FaviconsWebpackPlugin(path.resolve(context, "favicon.png")));
 
   isDevServer && plugins.push(new webpack.HotModuleReplacementPlugin());
 
