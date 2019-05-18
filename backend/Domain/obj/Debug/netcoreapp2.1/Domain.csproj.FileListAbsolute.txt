@@ -1,0 +1,14 @@
+D:\Projects\Urbaton\good-team\backend\Domain\bin\Debug\netcoreapp2.1\GT.Domain.deps.json
+D:\Projects\Urbaton\good-team\backend\Domain\bin\Debug\netcoreapp2.1\GT.Domain.dll
+D:\Projects\Urbaton\good-team\backend\Domain\bin\Debug\netcoreapp2.1\GT.Domain.pdb
+D:\Projects\Urbaton\good-team\backend\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+D:\Projects\Urbaton\good-team\backend\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Urbaton\good-team\backend\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+D:\Projects\Urbaton\good-team\backend\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+D:\Projects\Urbaton\good-team\backend\Domain\obj\Debug\netcoreapp2.1\GT.Domain.dll
+D:\Projects\Urbaton\good-team\backend\Domain\obj\Debug\netcoreapp2.1\GT.Domain.pdb
+D:\Projects\Urbaton\good-team\backend\Domain\bin\Debug\netcoreapp2.1\GT.Interfaces.dll
+D:\Projects\Urbaton\good-team\backend\Domain\bin\Debug\netcoreapp2.1\GT.Models.dll
+D:\Projects\Urbaton\good-team\backend\Domain\bin\Debug\netcoreapp2.1\GT.Interfaces.pdb
+D:\Projects\Urbaton\good-team\backend\Domain\bin\Debug\netcoreapp2.1\GT.Models.pdb
+D:\Projects\Urbaton\good-team\backend\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CopyComplete

@@ -1,0 +1,9 @@
+D:\Projects\Urbaton\good-team\backend\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache
+D:\Projects\Urbaton\good-team\backend\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+D:\Projects\Urbaton\good-team\backend\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+D:\Projects\Urbaton\good-team\backend\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+D:\Projects\Urbaton\good-team\backend\Models\bin\Debug\netcoreapp2.1\GT.Models.deps.json
+D:\Projects\Urbaton\good-team\backend\Models\bin\Debug\netcoreapp2.1\GT.Models.dll
+D:\Projects\Urbaton\good-team\backend\Models\bin\Debug\netcoreapp2.1\GT.Models.pdb
+D:\Projects\Urbaton\good-team\backend\Models\obj\Debug\netcoreapp2.1\GT.Models.dll
+D:\Projects\Urbaton\good-team\backend\Models\obj\Debug\netcoreapp2.1\GT.Models.pdb

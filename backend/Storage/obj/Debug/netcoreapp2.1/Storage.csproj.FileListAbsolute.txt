@@ -1,0 +1,16 @@
+D:\Projects\Urbaton\good-team\backend\Storage\bin\Debug\netcoreapp2.1\GT.Storage.deps.json
+D:\Projects\Urbaton\good-team\backend\Storage\bin\Debug\netcoreapp2.1\GT.Storage.dll
+D:\Projects\Urbaton\good-team\backend\Storage\obj\Debug\netcoreapp2.1\Storage.csproj.CoreCompileInputs.cache
+D:\Projects\Urbaton\good-team\backend\Storage\obj\Debug\netcoreapp2.1\Storage.AssemblyInfoInputs.cache
+D:\Projects\Urbaton\good-team\backend\Storage\obj\Debug\netcoreapp2.1\Storage.AssemblyInfo.cs
+D:\Projects\Urbaton\good-team\backend\Storage\bin\Debug\netcoreapp2.1\GT.Storage.runtimeconfig.json
+D:\Projects\Urbaton\good-team\backend\Storage\bin\Debug\netcoreapp2.1\GT.Storage.runtimeconfig.dev.json
+D:\Projects\Urbaton\good-team\backend\Storage\obj\Debug\netcoreapp2.1\Storage.csprojAssemblyReference.cache
+D:\Projects\Urbaton\good-team\backend\Storage\bin\Debug\netcoreapp2.1\GT.Storage.pdb
+D:\Projects\Urbaton\good-team\backend\Storage\obj\Debug\netcoreapp2.1\GT.Storage.dll
+D:\Projects\Urbaton\good-team\backend\Storage\obj\Debug\netcoreapp2.1\GT.Storage.pdb
+D:\Projects\Urbaton\good-team\backend\Storage\bin\Debug\netcoreapp2.1\GT.Models.dll
+D:\Projects\Urbaton\good-team\backend\Storage\bin\Debug\netcoreapp2.1\GT.Models.pdb
+D:\Projects\Urbaton\good-team\backend\Storage\obj\Debug\netcoreapp2.1\Storage.csproj.CopyComplete
+D:\Projects\Urbaton\good-team\backend\Storage\bin\Debug\netcoreapp2.1\GT.Interfaces.dll
+D:\Projects\Urbaton\good-team\backend\Storage\bin\Debug\netcoreapp2.1\GT.Interfaces.pdb
