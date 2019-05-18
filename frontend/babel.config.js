@@ -48,6 +48,23 @@ module.exports = function(api) {
       "@babel/plugin-proposal-optional-chaining",
       ["@babel/plugin-proposal-nullish-coalescing-operator", { loose: true }],
       [
+        "babel-plugin-import",
+        {
+          libraryName: "lodash",
+          libraryDirectory: "",
+          camel2DashComponentName: false // default: true
+        },
+        "lodash"
+      ],
+      [
+        "babel-plugin-import",
+        {
+          libraryName: "antd",
+          style: true
+        },
+        "antd"
+      ],
+      [
         "babel-plugin-react-css-modules",
         {
           context,

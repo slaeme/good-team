@@ -40,9 +40,14 @@ module.exports = (env, argv) => {
                 modules: "global"
               }
             },
-            "less-loader"
+            {
+              loader: "less-loader",
+              options: {
+                javascriptEnabled: true
+              }
+            }
           ],
-          include: [/retail-ui/, /react-icons/]
+          include: [/antd/]
         },
         {
           test: [/\.less$/, /\.css$/],
@@ -77,11 +82,14 @@ module.exports = (env, argv) => {
             {
               loader: "less-loader",
               options: {
-                paths: [path.resolve(__dirname)]
+                paths: [
+                  path.resolve(__dirname, "src"),
+                  path.resolve(__dirname, "node_modules")
+                ]
               }
             }
           ],
-          exclude: [/retail-ui/, /variables.less/],
+          exclude: [/antd/],
           include: context.context
         },
         {

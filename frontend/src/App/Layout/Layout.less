@@ -1,0 +1,40 @@
+@import "/src/variables.less";
+
+html {
+  font-family: "Segoe UI", "Georgia", "Times New Roman", serif;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.layout {
+  max-width: 600px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  padding: 3 * @step;
+}
+
+.logo {
+  display: inline-block;
+  width: @logo-size;
+  height: @logo-size;
+  background-image: url("/src/favicon.png");
+  background-size: contain;
+}
+
+.name {
+  font-size: 40px;
+  margin-left: 2 * @step;
+  font-weight: lighter;
+}
+.main {
+}
+
+.footer {
+  padding: 3 * @step;
+}
